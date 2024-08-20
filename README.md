@@ -13,4 +13,7 @@ I created two simple microservices:
 2. Another service to return the values of loan with the corresponding interest values added to it.
 
 If you have any suggestion, feel free to add an issue to this project.
+
+I would like to thank Salitha Chathuranga for the awesome Medium article with explanation about this architecture.
+
 Thanks :)
